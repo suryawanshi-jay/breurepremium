@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		font-weight: normal;
 	}
 
-	h1 {
+	/*h1 {
 		color: #444;
 		background-color: transparent;
 		border-bottom: 1px solid #D0D0D0;
@@ -32,7 +32,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		font-weight: normal;
 		margin: 0 0 14px 0;
 		padding: 14px 15px 10px 15px;
-	}
+	} */
 
 	code {
 		font-family: Consolas, Monaco, Courier New, Courier, monospace;
